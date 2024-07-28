@@ -12,16 +12,16 @@ Django REST Framework 3.x or higher
 
 Installation
 Clone the repository:
-1. git clone https://github.com/yourusername/blog-django-rest.git
-2. cd blog-django-rest
-3. 
+1. git clone https://github.com/ashutosh164/blog-assignment.git
+2. cd blogproject
+
 Create and activate a virtual environment:
 1. python3 -m venv venv
 2. source venv/bin/activate
 
 Install the required packages:
 1. pip install -r requirements.txt
-2. 
+
 Apply migrations:
 1. python manage.py migrate
    
